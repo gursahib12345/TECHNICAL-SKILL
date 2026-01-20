@@ -23,6 +23,8 @@ public class question1 {
 }
 
 // observation: for every max element there wont be any greater than itself
+//Procedure
 // // step 1:iterate and find the max element from the array
 // // step 2: iterate and get the numbers of elements that are not equal to max
 // Step 3: increment the count
+
